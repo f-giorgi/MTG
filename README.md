@@ -26,7 +26,7 @@ The library and its GUI make use of third party software libraries such as Qt 4 
 
 http://root.cern.ch
 
-http://qt.digia.com/
+http://qt-project.org/
 
 *******************************************************************************************************************
 The first commit is still a work in progress so some part of the code may result obscure. Consult the list of contributorst if you need demistifications.
