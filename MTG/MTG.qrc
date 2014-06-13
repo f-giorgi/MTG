@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/new.png</file>
+        <file>images/print.png</file>
+        <file>images/save.png</file>
+        <file>images/pix_checked.png</file>
+        <file>images/pix_unchecked.png</file>
+        <file>styles.qss</file>
+        <file>images/graph.png</file>
+        <file>images/import.png</file>
+        <file>images/bin.png</file>
+        <file>images/MTG.png</file>
+        <file>images/bin2.png</file>
+        <file>images/rew.png</file>
+        <file>images/next.png</file>
+        <file>images/prev.png</file>
+        <file>images/fwd.png</file>
+        <file>images/inspect.png</file>
+        <file>images/pix_checked_hover.png</file>
+        <file>images/pix_unchecked_hover.png</file>
+        <file>images/mask2.png</file>
+        <file>images/mask.png</file>
+        <file>images/mask3.png</file>
+        <file>images/renameMask.png</file>
+        <file>images/deleteMask.png</file>
+        <file>images/DMicon.png</file>
+        <file>images/PlotIcon.png</file>
+        <file>images/inspectorIcon.png</file>
+        <file>images/boxIcon.png</file>
+        <file>images/renameBox.png</file>
+        <file>images/renameMask2.png</file>
+        <file>images/saveDataSet.png</file>
+        <file>images/autobot.png</file>
+        <file>images/binAll.png</file>
+    </qresource>
+</RCC>
