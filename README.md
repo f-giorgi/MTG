@@ -1,19 +1,20 @@
-    MTG
-===========
-MatrixTools GUI 
-==============
+MTG - MatrixTools GUI
+=====================
+ 
+A Graphical User Interface for MatrixTools C++ Library
+------------------------------------------------------
+ 
+### TOC
 
-===== 
-TOC
 * 1 Introduction 
 * 2 Description 
 * 3 Developers list 
 
-=====
 
 
 
-* 1 Introduction
+
+### 1 - Introduction
 
 The MatrixTools C++ library and its Qt Graphical User Interface.
 The MatrixTools is a library providing help to the developers of pixel-sensor readout architectures, and in general to those who want to perfom common analysis on raw pixel data (e.g. pattern match, sequence checks, cluster analysis etc...).
@@ -33,7 +34,7 @@ The first commit is still a work in progress so some part of the code may result
 *******************************************************************************************************************
 
 
-* 2 Description
+### 2 - Description
 
 The library is based on the class matrixData, which provide a common data structure for basically any binary pixel detector (i.e. a collection of hits (x,y) with an absolute time stamp t organized in "events")
 The real "Tools" are the classes that screw on matrixData, for instance those filling it by parsing data files, or those performing cluster analysis. At the moment no other documentation is provided but the source comments (a doc or man page has high priority in the todo list after writing this README).
@@ -43,6 +44,6 @@ The Makefile in the MTG directory build the GUI user program exploiting the MT l
 
 
 
-3- Developers Team
+### 3 - Developers Team
   * FGiorgi
   * AMandrake
